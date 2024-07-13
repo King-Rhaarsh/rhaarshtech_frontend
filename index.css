@@ -1,0 +1,16 @@
+body {
+    background-color: cadetblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    color: antiquewhite;
+    font-weight: 600;
+    font-style: "italic";
+}
+
+p{
+    color: chocolate;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
