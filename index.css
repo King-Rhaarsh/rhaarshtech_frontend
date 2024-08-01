@@ -1,16 +1,16 @@
 body {
-    background-color: cadetblue;
+    background-color: rgb(203, 221, 187);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1 {
-    color: antiquewhite;
+    color: rgb(44, 8, 224);
     font-weight: 600;
-    font-style: "italic";
+    font-style: italic;
 }
 
 p{
-    color: chocolate;
+    color: rgb(42, 38, 36);
     font-style: oblique;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
